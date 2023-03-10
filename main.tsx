@@ -10,7 +10,7 @@ blog({
   // footer: <footer>Your custom footer</footer>,
   avatar: 'images/fuzzyduck.jpg',
   avatarClass: "rounded-full",
-  author: "An author",
+  author: "Thomas Petridis",
 
   // middlewares: [
 
